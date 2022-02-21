@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "This is a test project.",
+  "custom-object": {
+    "custom-line": "line1",
+    "custom-text": "123456789"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "123456789"
+    },
+    {
+      "custom-list-item": "987654321"
+    }
+  ]
+}
